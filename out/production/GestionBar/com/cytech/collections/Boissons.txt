@@ -1,0 +1,3 @@
+BoissonNonAlcoolisee JusdOrange 1 2.5 20 1.5
+BoissonNonAlcoolisee JusdePomme 1 2.0 10 1.0
+BoissonAlcoolisee Vodka 0.5 5.5 15 40.6
